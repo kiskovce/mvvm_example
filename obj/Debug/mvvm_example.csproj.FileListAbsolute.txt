@@ -1,0 +1,14 @@
+c:\users\kravcikm\documents\visual studio 2015\Projects\mvvm_example\mvvm_example\bin\Debug\mvvm_example.exe.config
+c:\users\kravcikm\documents\visual studio 2015\Projects\mvvm_example\mvvm_example\bin\Debug\mvvm_example.exe
+c:\users\kravcikm\documents\visual studio 2015\Projects\mvvm_example\mvvm_example\bin\Debug\mvvm_example.pdb
+c:\users\kravcikm\documents\visual studio 2015\Projects\mvvm_example\mvvm_example\obj\Debug\mvvm_example.csprojResolveAssemblyReference.cache
+c:\users\kravcikm\documents\visual studio 2015\Projects\mvvm_example\mvvm_example\obj\Debug\MainWindow.g.cs
+c:\users\kravcikm\documents\visual studio 2015\Projects\mvvm_example\mvvm_example\obj\Debug\App.g.cs
+c:\users\kravcikm\documents\visual studio 2015\Projects\mvvm_example\mvvm_example\obj\Debug\mvvm_example_MarkupCompile.cache
+c:\users\kravcikm\documents\visual studio 2015\Projects\mvvm_example\mvvm_example\obj\Debug\mvvm_example_MarkupCompile.lref
+c:\users\kravcikm\documents\visual studio 2015\Projects\mvvm_example\mvvm_example\obj\Debug\MainWindow.baml
+c:\users\kravcikm\documents\visual studio 2015\Projects\mvvm_example\mvvm_example\obj\Debug\mvvm_example.g.resources
+c:\users\kravcikm\documents\visual studio 2015\Projects\mvvm_example\mvvm_example\obj\Debug\mvvm_example.Properties.Resources.resources
+c:\users\kravcikm\documents\visual studio 2015\Projects\mvvm_example\mvvm_example\obj\Debug\mvvm_example.csproj.GenerateResource.Cache
+c:\users\kravcikm\documents\visual studio 2015\Projects\mvvm_example\mvvm_example\obj\Debug\mvvm_example.exe
+c:\users\kravcikm\documents\visual studio 2015\Projects\mvvm_example\mvvm_example\obj\Debug\mvvm_example.pdb
